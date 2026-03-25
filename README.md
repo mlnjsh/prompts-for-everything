@@ -77,3 +77,34 @@ Have a killer prompt? Open a PR!
 ---
 
 *Maintained by [Milan Amrut Joshi](https://github.com/mlnjsh)*
+
+
+---
+
+## Contributors & Domain Experts
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/mlnjsh">
+        <img src="https://github.com/mlnjsh.png" width="80px;" alt="Milan Amrut Joshi"/><br />
+        <sub><b>Milan Amrut Joshi</b></sub>
+      </a><br />
+      <sub>Project Author</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/f">
+        <img src="https://github.com/f.png" width="80px;" alt="f (Prompt Engineering)"/><br />
+        <sub><b>f (Prompt Engineering)</b></sub>
+      </a><br />
+      <sub>Prompt engineering guides</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/dair-ai">
+        <img src="https://github.com/dair-ai.png" width="80px;" alt="DAIR.AI"/><br />
+        <sub><b>DAIR.AI</b></sub>
+      </a><br />
+      <sub>ML & prompt engineering resources</sub>
+    </td>
+  </tr>
+</table>
